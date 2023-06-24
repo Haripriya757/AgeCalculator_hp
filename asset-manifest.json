@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AgeCalculator_hp/static/css/main.45b38e64.css",
+    "main.js": "/AgeCalculator_hp/static/js/main.a14f60bf.js",
+    "static/media/party-popper.jpg": "/AgeCalculator_hp/static/media/party-popper.2098bdc064f20b474aa3.jpg",
+    "index.html": "/AgeCalculator_hp/index.html",
+    "main.45b38e64.css.map": "/AgeCalculator_hp/static/css/main.45b38e64.css.map",
+    "main.a14f60bf.js.map": "/AgeCalculator_hp/static/js/main.a14f60bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b38e64.css",
+    "static/js/main.a14f60bf.js"
+  ]
+}
